@@ -1,0 +1,1 @@
+create or replace schema schema_omop;
